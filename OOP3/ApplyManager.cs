@@ -13,7 +13,8 @@ namespace OOP3
             //
             
             creditManager.Calculate();
-            loggerService.Log();     
+            loggerService.Log();   
+            //PULL REQUEST Ex..
         }
 
         public void CreditPreInfo(List<ICreditManager> credits)
